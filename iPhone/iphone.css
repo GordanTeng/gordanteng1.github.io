@@ -1,0 +1,61 @@
+.outline {
+    background-color: rgb(248, 243, 243);
+    position: relative;
+    width: 318px;
+    height: 648px;
+    top: 47px;
+    left: 530px;
+    border-radius: 10%;
+    border: 1px solid black
+}
+
+.box1-1 {
+    background-color: black;
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    top: 16px;
+    left: 155px;
+    border-radius: 50%
+}
+
+.box1-2 {
+    background-color: black;
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    top: 34px;
+    left: 109.5px;
+    border-radius: 50%
+}
+
+.box1-3 {
+    background-color: black;
+    position: absolute;
+    width: 42.5px;
+    height: 3px;
+    top: 38px;
+    left: 137.5px;
+    border-radius: 25%
+}
+
+.box2 {
+    background-color: black;
+    position: absolute;
+    width: 285px;
+    height: 503px;
+    top: 72px;
+    left: 15px;
+    border-radius: 1.2%
+}
+
+.box3 {
+    background-color: rgb(248, 243, 243);
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 585px;
+    left: 135px;
+    border-radius: 50%;
+    border: 2px solid black;
+}

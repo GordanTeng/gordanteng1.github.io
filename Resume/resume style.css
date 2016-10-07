@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+* {
+    font-size: 20px;
+    font-family: 'Noto Sans TC', sans-serif, Arial;
+}
+
+
+/*header*/
+
+h1 {
+    font-size: 1.2em;
+}
+
+p {
+    font-size: 0.6em;
+}
+
+
+/*content*/
+
+h3 {
+    font-size: 0.6em;
+}
+
+li {
+    font-size: 0.6em;
+}
+
+.italic {
+    font-style: italic
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+/*margin:0 auto, container置中*/
+
+.overflow {
+    clear: both
+}
+
+
+/*clear:both,讓下一段不要被float擋住*/
